@@ -1,4 +1,4 @@
 # GDSC-DIgital-VIllage-Hackathon
 
-Project under development
+Project under development;
 Progress so far
